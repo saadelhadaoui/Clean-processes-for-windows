@@ -1,0 +1,14 @@
+# Ultra Clean Services local reports and rollback data
+**/Reports/
+**/Backups/
+Backup-*.json
+*.json.assets/
+*.csv
+*.log
+
+# Windows and editor metadata
+Thumbs.db
+Desktop.ini
+*.Zone.Identifier
+.vscode/
+.idea/
